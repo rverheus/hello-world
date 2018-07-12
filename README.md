@@ -3,5 +3,5 @@ Just a little test repository to see what we can do with it.
 
 Just doing a little editing and it looks quite promising.
 
-Edited this file in Bloemendaal en Heemstede (NL)
+Edited this file in Bloemendaal en Heemstede (Nederland, NH)
 Received text by train.
